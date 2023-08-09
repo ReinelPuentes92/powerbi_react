@@ -1,7 +1,7 @@
 {
   "name": "powerbi-react",
   "version": "0.1.0",
-  "homepage": "https://ReinelPuentes92.github.io/powerbi-react",
+  "homepage": "https://reinelpuentes92.github.io/powerbi_react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
