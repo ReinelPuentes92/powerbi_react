@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/powerbi-react/static/css/main.a6d1321d.css",
+    "main.js": "/powerbi-react/static/js/main.fcf127de.js",
+    "static/js/787.db1aa035.chunk.js": "/powerbi-react/static/js/787.db1aa035.chunk.js",
+    "index.html": "/powerbi-react/index.html",
+    "main.a6d1321d.css.map": "/powerbi-react/static/css/main.a6d1321d.css.map",
+    "main.fcf127de.js.map": "/powerbi-react/static/js/main.fcf127de.js.map",
+    "787.db1aa035.chunk.js.map": "/powerbi-react/static/js/787.db1aa035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d1321d.css",
+    "static/js/main.fcf127de.js"
+  ]
+}
